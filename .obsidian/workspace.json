@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7e7f2cfdb8773714",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e356e27fa156df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b863b10a35126979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бурбон/Что можно было бы сделать лучше?.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f697951aff07b554",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de91bfc1e60e7b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec50e6cce5b32d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37cbc2a83a36e173",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d16a77a150ef06e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44f06f8384c4e0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe48a4a9c87acc3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56bfa8183974e1ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Бурбон/Что можно было бы сделать лучше?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e5b125d919fd1d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Бурбон/Что можно было бы сделать лучше?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71cf67c2ea24b4f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7092382315a35c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Бурбон/Что можно было бы сделать лучше?.md"
+              }
+            }
+          },
+          {
+            "id": "205ee9ebd702f4d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": true,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b863b10a35126979",
+  "lastOpenFiles": [
+    "Бурбон/Почему я до сих пор в Бурбоне и не нашел проект лучше?.md",
+    "Бурбон/Что можно было бы сделать лучше?.md",
+    "Семья/Что такое вкладываться в семью?.md",
+    "Семья/Что я хочу в моих отношениях?.md",
+    "Семья/интересные нам обоим темы для разговоров.md",
+    "Списки и чеклисты/10 новых блюд.md",
+    "Списки и чеклисты/Список для чтения.md",
+    "Списки и чеклисты/список целей.md",
+    "Саморазвитие/Целеполагание/Насколько мои цели настоящие.md",
+    "Тренинг Антона Тимофеева/Трёхмесячный тренинг от Антона Тимофеева.md",
+    "Семья/Как создавались мои отношения.md",
+    "Семья/Какой формат отношений я хочу и для чего я годен?.md",
+    "Семья/правилами отношений.md",
+    "Семья/Цели семьи.md",
+    "Семья/Семья и отношения.md",
+    "Семья/Правила танцев.md",
+    "Семья/Какой формат отношений хочет она?.md",
+    "Семья/Единые правила.md",
+    "Семья/01.04.2024.md",
+    "Семейная терапия с Хитровым/Язык любви.md",
+    "Семейная терапия с Хитровым/Ситуативность секса.md",
+    "Семейная терапия с Хитровым/Разгон тестостерона через спорт.md",
+    "Семейная терапия с Хитровым/Прохождение детского пути.md",
+    "Семейная терапия с Хитровым/дело которое тебя по настоящему зажигает.md",
+    "Семейная терапия с Хитровым/ВзяткИ.md",
+    "Семейная терапия с Хитровым/Вариант \"а\" и вариант \"б\".md",
+    "Обработка ошибки с помощью try",
+    "Проекты Flutter",
+    "Проект ElKa/Без названия",
+    "Бурбон",
+    "Списки и чеклисты",
+    "Тренинг Антона Тимофеева",
+    "obsidian_vault",
+    "Проекты Flutter/Проект ElKa",
+    "Dart&Flutter",
+    "Саморазвитие/Целеполагание",
+    "Без названия.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas"
+  ]
+}

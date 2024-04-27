@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#Хитров  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.996419270833333,
+  "lineSizeMultiplier": 0.994026692708333,
+  "collapse-forces": false,
+  "centerStrength": 0.502604166666667,
+  "repelStrength": 9.99674479166667,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.3933354648283967,
+  "close": true
+}
